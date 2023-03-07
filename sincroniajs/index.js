@@ -1,4 +1,4 @@
-
+// Promises com async/await
 //importamos um módulo interno do node.js
 const util = require('util')
 const obterEnderecoAsync = util.promisify(obterEndereco)
